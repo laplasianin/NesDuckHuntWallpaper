@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string-array name="time_keynames">
+		<item>"Fast"</item>
+		<item>"Medium"</item>
+		<item>"Slow"</item>
+	</string-array>
+
+	<string-array name="timel_keyvalues">
+		<item>"0"</item>
+		<item>"1"</item>
+		<item>"2"</item>
+	</string-array>
+
+	<string-array name="cloud_keynames">
+		<item>"Many"</item>
+		<item>"Medium"</item>
+		<item>"Few"</item>
+		<item>"No clouds"</item>
+	</string-array>
+
+	<string-array name="cloud_keyvalues">
+		<item>"0"</item>
+		<item>"1"</item>
+		<item>"2"</item>
+		<item>"3"</item>
+	</string-array>
+
+	<string-array name="birds_keynames">
+		<item>"No birds"</item>
+		<item>"1"</item>
+		<item>"2"</item>
+	</string-array>
+
+	<string-array name="birds_keyvalues">
+		<item>"0"</item>
+		<item>"1"</item>
+		<item>"2"</item>
+	</string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">NewLiveWallpaper</string>
+    <string name="touch_key">touch</string>
+    <string name="backgroundStyle_key">backgroundStyle</string>
+    <string name="cloudsStyle_key">cloudsStyle</string>
+    <string name="DucksStyle_key">BirdsStyle</string>
+    <string name="wallpaper_description">NES 9999in1 style live wallpaper</string>
+    
+</resources>

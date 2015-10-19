@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<CheckBoxPreference android:title="Enable Touch" android:key="@string/touch_key"></CheckBoxPreference>
+	<ListPreference android:dialogLayout="@layout/time_settings_dialog"
+		android:title="Background changing style" android:dialogTitle="Choose style"
+		android:entryValues="@array/timel_keyvalues"
+		android:entries="@array/time_keynames" android:key="@string/backgroundStyle_key"></ListPreference>
+	<ListPreference android:dialogLayout="@layout/time_settings_dialog"
+		android:dialogTitle="Choose style" android:title="Clouds quantity" android:entryValues="@array/cloud_keyvalues"
+		android:entries="@array/cloud_keynames" android:key="@string/cloudsStyle_key"></ListPreference>
+	<ListPreference android:dialogLayout="@layout/time_settings_dialog"
+		android:dialogTitle="Choose style" android:title="Birds style" android:entryValues="@array/birds_keyvalues"
+		android:entries="@array/birds_keynames" android:key="@string/DucksStyle_key"></ListPreference>
+
+</PreferenceScreen>
