@@ -9,29 +9,31 @@ package com.laplasianin.duckhunt;
 
 public final class R {
     public static final class array {
-        public static final int birds_keynames=0x7f050004;
-        public static final int birds_keyvalues=0x7f050005;
-        public static final int cloud_keynames=0x7f050002;
-        public static final int cloud_keyvalues=0x7f050003;
-        public static final int time_keynames=0x7f050000;
-        public static final int timel_keyvalues=0x7f050001;
+        public static final int birds_keynames=0x7f050000;
+        public static final int birds_keyvalues=0x7f050001;
     }
     public static final class attr {
     }
     public static final class drawable {
         public static final int background=0x7f020000;
-        public static final int hound_crazy=0x7f020001;
-        public static final int hound_grin_1=0x7f020002;
-        public static final int hound_grin_2=0x7f020003;
-        public static final int hound_jump_1=0x7f020004;
-        public static final int hound_jump_2=0x7f020005;
-        public static final int hound_smell_1=0x7f020006;
-        public static final int hound_trophy_1=0x7f020007;
-        public static final int hound_walk_1=0x7f020008;
-        public static final int hound_walk_2=0x7f020009;
-        public static final int hound_walk_3=0x7f02000a;
-        public static final int hound_walk_4=0x7f02000b;
-        public static final int icon=0x7f02000c;
+        public static final int duck1=0x7f020001;
+        public static final int duck2=0x7f020002;
+        public static final int duck3=0x7f020003;
+        public static final int duck_agony=0x7f020004;
+        public static final int duck_died=0x7f020005;
+        public static final int hound_crazy=0x7f020006;
+        public static final int hound_grin_1=0x7f020007;
+        public static final int hound_grin_2=0x7f020008;
+        public static final int hound_jump_1=0x7f020009;
+        public static final int hound_jump_2=0x7f02000a;
+        public static final int hound_smell_1=0x7f02000b;
+        public static final int hound_trophy_1=0x7f02000c;
+        public static final int hound_trophy_2=0x7f02000d;
+        public static final int hound_walk_1=0x7f02000e;
+        public static final int hound_walk_2=0x7f02000f;
+        public static final int hound_walk_3=0x7f020010;
+        public static final int hound_walk_4=0x7f020011;
+        public static final int icon=0x7f020012;
     }
     public static final class id {
         public static final int linearLayout1=0x7f080000;
